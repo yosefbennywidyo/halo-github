@@ -2,6 +2,9 @@
 Contoh repositori menggunakan Github
 
 ## Sumber Informasi terkait Git
+### Git Cheat Sheet
+Rangkuman penggunaan git dapat dilihat [disini](https://github.com/yosefbennywidyo/halo-github/blob/main/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
+
 ### Github
 #### Github Flow
 Alur GitHub adalah alur kerja ringan berbasis cabang yang mendukung tim dan proyek tempat penerapan dilakukan secara teratur. Panduan ini menjelaskan bagaimana dan mengapa aliran GitHub bekerja.
@@ -38,3 +41,6 @@ Pelatihan untuk memahami Git dengan menggunakan Bitbucket.
 Markdown adalah bahasa markup ringan yang dapat Anda gunakan untuk menambahkan elemen pemformatan ke dokumen teks teks biasa. Dibuat oleh John Gruber pada tahun 2004, Markdown sekarang menjadi salah satu bahasa markup paling populer di dunia.
 
 *sumber informasi: [Getting Started with Markdown](https://www.markdownguide.org/getting-started/)*
+
+### Markdown Cheat Sheet
+Rangkuman penggunaan markdown dapat dilihat [disini](https://github.com/yosefbennywidyo/halo-github/blob/main/markdown-cheat-sheet.md)
