@@ -1,6 +1,8 @@
 # Halo Github
 Contoh repositori menggunakan Github
 
+contoh conflict yang terjadi pada file
+
 ## Sumber Informasi terkait Git
 ### Git Cheat Sheet
 Rangkuman penggunaan git dapat dilihat [disini](https://github.com/yosefbennywidyo/halo-github/blob/main/SWTM-2088_Atlassian-Git-Cheatsheet.pdf)
